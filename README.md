@@ -8,4 +8,4 @@ Btho192
 * rickroll
 * HTML
 * CSS
-* <em>**BOLD ITALIAN TEXT**</em>
+* <em>**BOLD ITALIAN TEXT**</em> ![](https://m.media-amazon.com/images/I/51DpelqKUyL.jpg)
