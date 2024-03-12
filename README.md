@@ -1,5 +1,6 @@
 # stats220
 stats220 Project 1
+Btho192
 
 ## Things this project contains:
 
@@ -7,4 +8,4 @@ stats220 Project 1
 * rickroll
 * HTML
 * CSS
-* * **BOLD ITALIAN TEXT** *
+* <em>**BOLD ITALIAN TEXT**</em>
