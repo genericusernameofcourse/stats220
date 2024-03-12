@@ -13,4 +13,5 @@ Btho192
 
 ![](https://m.media-amazon.com/images/I/51DpelqKUyL.jpg)
 
-#### Image taken from: <a href="https://www.amazon.com/Bold-Italian-Scott-Conant/dp/0767916832"></a>
+#### Image taken from:
+<a href="https://www.amazon.com/Bold-Italian-Scott-Conant/dp/0767916832"></a>
