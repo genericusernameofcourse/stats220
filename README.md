@@ -3,7 +3,7 @@ stats220 Project 1
 Btho192
 
 ## why is this here?
-I had to create a github page with a barebones readme file for a statistics class. A basic level of markdown was needed to be used. We could of been more creative and made this page look nice, it is clear I havn't done this.
+I had to create a github page with a barebones readme file for a statistics class. A basic level of markdown was needed to be used. We could of been more creative and made this page look nice, it is clear I haven't done this.
 ## Things this project contains:
 
 * Memes
